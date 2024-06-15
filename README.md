@@ -12,4 +12,4 @@
 - Responsive Design
 - Mobile-first workflow
 
-[ScreenShoot](./assets/images/blog-preview-card.png)
+[](./assets/images/blog-preview-card.png)
